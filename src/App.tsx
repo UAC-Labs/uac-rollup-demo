@@ -17,7 +17,7 @@ const steps = [
     ]
   },
   {
-    title: "2. Coordination Node Matches Intents",
+    title: "2. Decentralized Coordination Nexus (DCN) Matches Intents",
     description: "Intents are matched into CUPIDs and bundled together.",
     icon: <Repeat2 className="w-6 h-6 text-green-600" />, 
     color: "bg-green-100 border-green-300",
@@ -37,8 +37,8 @@ const steps = [
     ]
   },
   {
-    title: "4. Final Settlement",
-    description: "All matched transactions are atomically finalized and locked in Bitcoin.",
+    title: "4. Final Settlement on Bitcoin",
+    description: "All matched transactions are atomically finalized and locked on Bitcoin.",
     icon: <ShieldCheck className="w-6 h-6 text-purple-600" />, 
     color: "bg-purple-100 border-purple-300",
     cards: [
