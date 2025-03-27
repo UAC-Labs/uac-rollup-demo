@@ -17,7 +17,7 @@ const steps = [
     ]
   },
   {
-    title: "2. Decentralized Coordination Nexus (DCN) Matches Intents",
+    title: "2. Coordination Nodes Match Intents",
     description: "Intents are matched into CUPIDs and bundled together.",
     icon: <Repeat2 className="w-6 h-6 text-green-600" />, 
     color: "bg-green-100 border-green-300",
